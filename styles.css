@@ -29,7 +29,10 @@ p {
 }
 
 /*Make all inputs have a 3px red border*/
-
+input {
+    border-color: red;
+    border-width: 3px;
+}
 
 /* Give everything with the class 'hello' a white background*/
 
